@@ -1,1 +1,1 @@
-https://ryuchannnnn.github.io/odinFullStack/signUpForm/index.html
+https://ryuchannnnn.github.io/odinFullStack/signUpForm/src/index.html
